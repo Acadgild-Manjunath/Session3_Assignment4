@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Session3_Assignment4</string>
+    <string name="usernameText">Username</string>
+    <string name="passwordText">Password</string>
+    <string name="loginbtn">LOGIN</string>
+    <string name="signup">Not a member? Sign up now.</string>
+</resources>
